@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\obj\Debug\FinalExam.Form1.resources
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\obj\Debug\FinalExam.Properties.Resources.resources
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+\\Mac\Home\Documents\Study\LaSalle\2023Winter\object oriented programming\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
